@@ -7,44 +7,26 @@ Hệ thống tài liệu và ứng dụng tra cứu kỹ thuật nông học, l�
 
 ---
 
-## 🚀 11 Mô-Đun Đào Tạo & Tác Nghiệp Chuẩn:
+## 🚀 6 Mô-Đun Kỹ Thuật Chuẩn:
 
 1. **📦 1. Thông Tin Sản Phẩm:**
    * Chi tiết các dòng sản phẩm chiến lược: **PH14 (Kiềm sinh học Biochar Mỹ)**, **ZAKi Rước Đòng (Lon thiếc 1L)**, **ZAKi Vô Gạo (Lon thiếc 1L)**, **Netto Plus Tím 10EW (Thuốc sâu dạng sữa mát cây 1L)**, **Mix Combi Ba Lan**, **Siêu Loang Trải Luke**.
    * Quy cách tiêu chuẩn, định mức sử dụng theo công tầm cắt / Drone, cơ chế tác động ngoài ruộng và quy chuẩn phối trộn an toàn (Lưu ý: Netto Plus tuyệt đối không pha chung với PH14).
 
-2. **🌾 2. Kịch Bản ZAKi (VG):**
-   * Bảng kịch bản 5 bước tư vấn ZAKi Rước Đòng & Vô Gạo theo 6 cữ sinh lý lúa.
-   * Xử lý từ chối và cam kết giao hàng: khui thùng kiểm tra lon thiếc nắp giật trước khi thanh toán.
-
-3. **🧪 3. Kịch bản Bộ 3 (PH14):**
-   * Kịch bản tư vấn trọn gói Bộ 3 (PH14 + Rước Đòng + Vô Gạo) cho chân ruộng đất phèn, ngộ độc hữu cơ, xì phèn đỏ nước.
-   * Chính sách Combo theo diện tích (Gói 5 công, Gói 1 mẫu 10–12 công Mua 3 tặng 1).
-
-4. **🐛 4. Kịch bản Upsell Netto:**
-   * Bảng hướng dẫn tư vấn kèm thuốc sâu Netto Plus Tím dạng sữa 10EW theo 4 cữ đón đầu: Đẻ nhánh (20–25 NSS), Làm đòng (40–45 NSS), Trổ lẹt xẹt (60–65 NSS), Cong trái me (70–75 NSS).
-   * Định mức sử dụng theo diện tích ruộng và 4 câu hỏi thường gặp ngoài đồng ruộng.
-
-5. **📅 5. Mùa Vụ Lúa:**
+2. **📅 2. Mùa Vụ Lúa:**
    * Lịch mùa vụ 3 miền, phân tích chi tiết 5 giai đoạn sinh trưởng kèm ảnh chụp thực địa và 5 đợt bón phân chuẩn.
 
-6. **🧪 6. Kiềm Sinh Học Biochar:**
-   * Cơ chế khoa học nâng pH từ 4.0 lên 5.5 - 6.5 chỉ sau 24-48h, công nghệ than sinh học Biochar vi lỗ của Mỹ, dập phèn nhôm sắt và cắt độc rơm rạ mục.
-
-7. **📖 7. Từ Điển Lúa:**
+3. **📖 3. Từ Điển Lúa:**
    * 50 thuật ngữ tiếng lóng đồng ruộng ĐBSCL (*tim đèn 1-2 ly, ôm bắp, trổ lẹt xẹt, cong trái me, chắc tới cậy, rễ bung trắng phau...*) kèm biểu hiện và câu nói mẫu cho tư vấn viên.
 
-8. **📚 8. Từ Điển Cây Trồng:**
+4. **📚 4. Từ Điển Cây Trồng:**
    * 9 loại bệnh thổ nhưỡng & rễ thường gặp + Bảng so sánh Cách làm cũ (vôi nung) và Cách làm mới (Biochar Mỹ).
 
-9. **🌾 9. Giống Lúa:**
+5. **🌾 5. Giống Lúa:**
    * Cẩm nang 10 giống lúa chủ lực Việt Nam (thời gian sinh trưởng, đặc tính nông học, giá lúa, năng suất và lịch phun ZAKi).
 
-10. **🍊 10. Loại Cây Trồng:**
-    * Hướng dẫn kỹ thuật đa cây trồng (Sầu riêng, Cây có múi, Cà phê/Hồ tiêu, Thanh long, Rau màu).
-
-11. **🔍 11. Bảng Tra Cứu:**
-    * Công cụ tính toán nhanh liều pha theo bình 25L/phun Drone và quy đổi diện tích công tầm cấy (1.000m²), công tầm lớn (1.296m²).
+6. **🍊 6. Loại Cây Trồng:**
+   * Hướng dẫn kỹ thuật đa cây trồng (Sầu riêng, Cây có múi, Cà phê/Hồ tiêu, Thanh long, Rau màu).
 
 ---
 
